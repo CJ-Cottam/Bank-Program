@@ -21,4 +21,5 @@ What was used
 -Object Oriented-Programming
   - Headers, CPP files
   - Array of objects that is a pointer array
+  - Overloading
 - Regular functions, C-Time for (Randomly generating the customer ID.)
