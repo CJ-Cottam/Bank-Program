@@ -5,16 +5,16 @@ This a bank program, I made in C++, where the user creates how many accounts the
 Bank Features Included are:
 - Deposit Money
 - Withdraw Money
--Access information of the account
--Bank Manager Assistance
--Loans
--Interest
--Withdraw a define amount
+- Access information of the account
+- Bank Manager Assistance
+- Loans
+- Interest
+- Withdraw a define amount
 
 
 Manager Settings
--Account access based on the customer ID and selection.
--Pin Reset
+- Account access based on the customer ID and selection.
+- Pin Reset
 
 
 What was used
